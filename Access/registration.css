@@ -1,0 +1,10 @@
+
+body{
+	background: url(../images/1c.jpg);
+	background-size: cover;
+}
+.form{
+	position: absolute;
+	left: 35%;
+	top: 10%;
+}

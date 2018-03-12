@@ -1,0 +1,10 @@
+
+
+body{
+	background: url(../images/1a.jpg);
+	background-size: cover;
+}
+
+.li-nav li{
+	margin-right: 5em;
+}
